@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKEN+cevcGI6Xfv9Svxsy95wSztyeWgxFFXzK1wDZKuel49ihDgp55fVVtdy1OzgbGZGBznHefnWCIcib9UhDQ==",
+  "dgSpecHash": "q0p7Y6rKB1uxovNZErhU2E1QgdVRpLdZpn+ywKIyW8/Wt3NlB1Xz/ho02JhzPXRLmoUMJhkzXdh5IaN3npRzgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\Api\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\mult-tenant\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j.manoel.lopes.reis\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\j.manoel.lopes.reis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",

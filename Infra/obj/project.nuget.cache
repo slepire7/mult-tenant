@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vYeYsgI4oqLnCb7R/igJTVNDxZtr8NTO5IK/nCJne6Xl6dkpdNjTi8rMT3LgRQ5An7a/z1+V/3nqIe6LhLakSg==",
+  "dgSpecHash": "XwoUnBoUP2PuMzTHOWe60jqiP4+rljscws7p4irtvVhWRL+kj/od/qTUtx56TuPqCi2hTqTTS5q0Q6pHgwLotg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\Api\\Infra\\Infra.csproj",
+  "projectFilePath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\mult-tenant\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j.manoel.lopes.reis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\j.manoel.lopes.reis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

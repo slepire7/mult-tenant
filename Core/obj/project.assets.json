@@ -532,11 +532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\Api\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\mult-tenant\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\Api\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\mult-tenant\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\j.manoel.lopes.reis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\Api\\Core\\obj\\",
+      "outputPath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\mult-tenant\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\j.manoel.lopes.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",

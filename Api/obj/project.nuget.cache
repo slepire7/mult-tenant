@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5PJ2V4kWV7y9EzwOTF7Y21mlLtepX3M5afaB+3Lhko82VRFOv7Rq0P4QljYs5lvkgko1r4tm8dOjya2t0D4JuA==",
+  "dgSpecHash": "5qf8ael24V6er1yVFQ9TyMvWGDzsvK7ddavNsx0IpMNoupyjA4O+4Fptt2If9fk0Ccu0iUcKkPZoZhEUflv8gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\Api\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\j.manoel.lopes.reis\\Documents\\Cursos\\Crud\\mult-tenant\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j.manoel.lopes.reis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\j.manoel.lopes.reis\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
